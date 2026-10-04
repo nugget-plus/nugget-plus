@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
 # Nugget+
 
@@ -328,3 +328,4 @@ Nugget+ is provided as-is. You are responsible for your device and your data.
 **Nugget+ — customize your device, your way.**
 
 </div>
+](https://github.com/leminlimez/Nugget)
